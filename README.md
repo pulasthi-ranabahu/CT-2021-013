@@ -31,3 +31,10 @@ This repository contains solutions to **Lab Worksheet 1: Introduction to Program
 1. Clone the repository:
    ```bash
    git clone https://github.com/PulasthiRanabahu1/CT-2021-013
+
+2. Open the project in IntelliJ IDEA or any Java IDE.
+3. Navigate to the relevant package (Q_XX).
+4. Run the Java file for the corresponding question.
+   
+📸 Screenshots
+All program outputs are included in CT_2021_013_LW_01.docx.
