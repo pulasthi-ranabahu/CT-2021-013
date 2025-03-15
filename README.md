@@ -1,40 +1,47 @@
-# Lab Worksheet 1: Introduction to Program Components
+# 📘 Lab Worksheets - Java Programming
 
 ## 📌 Overview
-This repository contains solutions to **Lab Worksheet 1: Introduction to Program Components**, which is part of my coursework. The lab involves writing Java programs to work with GUI components, string manipulation, date and time handling, and user input.
+This repository contains solutions to multiple **Java Lab Worksheets**, covering fundamental programming concepts such as **mathematical computations, user input handling, GUI programming, string manipulation, date and time handling, object-oriented programming, and financial calculations**.
 
-## 🏗️ Project Structure
+Each worksheet is structured into **separate Java files**, following a consistent naming convention (`Q_0X.java` for each question). The repository provides a **step-by-step approach to mastering Java**, making it a useful resource for students and developers.
 
-## 📝 Lab Tasks
-### 🔹 Java GUI Programs:
-- **Q1**: Display a frame window (800x600) titled "Welcome to Java".
-- **Q2**: Take user's first and last name, display them as the frame title.
-- **Q6**: Create a resizable frame with dimensions entered by the user.
-- **Q7**: Display the current time in a frame title.
-- **Q12**: Position a frame at (50,100) on the screen.
+## 🏗️ Repository Structure
 
-### 🔹 String Manipulation:
-- **Q3**: Display full name in the format `First M. Last`.
-- **Q8**: Split a string at `!` and output both parts separately.
-- **Q9**: Display the number of characters and first/last character of a string.
-- **Q10**: Extract and display the middle character of an odd-length word.
-- **Q11**: Convert name format to `Last, First M.`.
+Each lab worksheet is stored in a separate folder, containing multiple Java programs:
 
-### 🔹 Date & Time Handling:
-- **Q4**: Print today's date in `DD Month YYYY` format.
-- **Q5**: Print today's date in `Day, Month DD, YYYY` format.
+## 📝 Lab Worksheets Included
 
-### 🔹 Extra Practical:
-- **Q13**: Execute a sample Java Swing program and analyze its behavior.
+### 🔹 **Lab 1: Java Basics**
+- **Q_01 to Q_10**: Mathematical expressions, unit conversions, temperature calculations, calorie computations, and loan calculations.
 
-## 🚀 How to Run
+### 🔹 **Lab 2: String Manipulation & GUI Programming**
+- **Q_01 to Q_12**: Java Swing GUI applications, string formatting, and basic user interface handling.
+
+### 🔹 **Lab 3: Date & Time Handling**
+- **Q_01 to Q_05**: Working with dates, time formats, and calendar-based calculations.
+
+### 🔹 **Lab 4: Object-Oriented Programming**
+- **Q_01 to Q_06**: Implementation of Java **classes, objects, constructors, inheritance**, and basic OOP concepts.
+
+### 🔹 **Lab 5: Data Structures & Exception Handling**
+- **Q_01 to Q_07**: Arrays, lists, stacks, file handling, and exception handling using **try-catch-finally** blocks.
+
+## 🚀 How to Run the Programs
+
 1. Clone the repository:
    ```bash
-   git clone https://github.com/PulasthiRanabahu1/CT-2021-013
-
-2. Open the project in IntelliJ IDEA or any Java IDE.
-3. Navigate to the relevant package (Q_XX).
-4. Run the Java file for the corresponding question.
+   git clone https://github.com/PulasthiRanabah1/CT-2021-013.git
    
-📸 Screenshots
-All program outputs are included in CT_2021_013_LW_01.docx.
+2.Navigate to the desired Lab Folder.
+
+3.Open the Java file (e.g., Q_01.java) in IntelliJ IDEA, Eclipse, or any Java IDE.
+
+4.Run the Java program and enter input as prompted.
+
+📄 Additional Notes
+Each Lab Folder contains its own README.md file explaining the problems.
+
+Screenshots and results of program execution are included in relevant documentation files.
+
+
+
